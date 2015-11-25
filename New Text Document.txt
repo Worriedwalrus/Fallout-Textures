@@ -1,0 +1,3 @@
+When loading into gimp, uncheck load mipmaps
+when exporting back to dds check mipmaps
+keep original folder structure for finished textures
